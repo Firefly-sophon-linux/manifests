@@ -21,7 +21,6 @@
   <project name="osdrv" />
   <project name="oss" />
   <project name="ramdisk" />
-  <project name="release" />
   <project name="sophliteos" />
   <project name="sophon_media" />
   <project name="tdl_sdk" />
